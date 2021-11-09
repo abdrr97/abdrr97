@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-<img width="400" src="https://github.com/abdrr97/abdrr97/blob/main/github-metrics.svg"  alt="Abderrahmane's Github Matrix" />
+<img src="https://github.com/abdrr97/abdrr97/blob/main/github-metrics.svg"  alt="Abderrahmane's Github Matrix" />
 
 <a href="https://app.daily.dev/abdrr97"><img src="https://github.com/abdrr97/abdrr97/blob/main/devcard.svg" width="400" alt="Abderrahmane's Dev Card"/></a>
