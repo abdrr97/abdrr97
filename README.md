@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Abderrahmane Hadar
 
-<!--
-**abdrr97/abdrr97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Full-Stack Developer** passionate about creating scalable, high-performance web applications with modern technologies. With years of experience building solutions that drive business success, I specialize in:
 
-Here are some ideas to get you started:
+- 🚀 **Frontend Development**: Next.js, React.js, TypeScript, Zustand, TailwindCSS  
+- 🛠️ **Backend Development**: Node.js, Express, PostgreSQL, MongoDB, RESTful APIs  
+- 🌐 **Full-Stack Expertise**: Crafting dynamic SaaS platforms, e-commerce sites, and robust POS systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌟 Notable Achievements  
+- Developed **Africa’s first B2B/B2C flight reservation system**, generating over **$100K in revenue**  
+- Built a **multi-tenant SaaS platform** with advanced tenant-specific controls  
+- Designed cutting-edge e-commerce platforms with intuitive UX and secure payment integrations  
+
+---
+
+### 🔧 Technical Skills  
+- Frameworks & Libraries: React.js, Next.js, TypeScript, Zustand, React Query, TailwindCSS  
+- Backend Tools: Node.js, Express, PostgreSQL, MongoDB, Redis, GraphQL  
+- Additional Expertise: API Integrations, Payment Gateways, Unit Testing  
+
+---
+
+### 📈 My Mission  
+I aim to build meaningful, user-focused digital products that solve real-world problems and create a positive impact.  
+
+Feel free to explore my projects and connect!  
+- 🌍 [LinkedIn](https://www.linkedin.com/in/hadar-abderrahmane)  
+- 💻 [Portfolio](#)  
+- 📫 Reach me: abdrr97@gmail.com  
